@@ -1,4 +1,0 @@
-URL: http://malicious-site.com/page1 | Status: 404
-URL: http://example.com/page2 | Status: 200
-URL: http://blacklisteddomain.com/page3 | Status: 404
-URL: http://malicious-site.com/login | Status: 404
